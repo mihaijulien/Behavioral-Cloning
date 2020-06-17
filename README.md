@@ -1,7 +1,7 @@
 # Car Behavioral Cloning
 
 |Track|
-|:--------:|:------------:|
+|:--------:|
 |[![Track](images/track.png)](https://youtu.be/-YOy0YLsNuk)|
 |[YouTube Link](https://youtu.be/-YOy0YLsNuk)|
 
