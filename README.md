@@ -5,6 +5,9 @@
 |[![Track](images/track.png)](https://youtu.be/-YOy0YLsNuk)|
 |[YouTube Link](https://youtu.be/-YOy0YLsNuk)|
 
+View the notebook online: 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mihaijulien/Behavioral-Cloning/tree/master/)
+
 Final project of the following course: [Autonomous Cars: Deep Learning and Computer Vision in Python ](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/)
 
 The steps of the project consisted of:
